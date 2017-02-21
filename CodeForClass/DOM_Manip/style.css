@@ -1,0 +1,15 @@
+.firstIter {
+	visibility: hidden;
+}
+
+.red {
+	background-color: red;
+}
+
+.green {
+	color: green;
+}
+
+.newMember {
+	color: blue;
+}

@@ -1,0 +1,14 @@
+
+div#bio h1 {
+	color: red;
+}
+
+div#bio > h1 {
+	color: green;
+}
+
+h3:hover {
+	color: purple;
+}
+
+
