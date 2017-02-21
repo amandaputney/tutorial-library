@@ -9,3 +9,19 @@ var whitneyAlbums = {
 	'Just Whitney' : 'Try It On My Own',
 	'The Preacher\'s Wife': 'Joy'
 }
+
+var captainPlanet = {
+	"wind" : "Linka",
+	"earth" : "Kwame",
+	"water" : "Gi",
+	"fire" : "Wheeler",
+	"heart" : "Ma-Ti"
+};
+
+var addMeUp = [14, 35, 23, 48];
+
+var mixedUpTypes = [
+	"Lady in Satin",
+	1958,
+	{ "songs" : ["You've Changed", "Violets for My Furs"]},
+]
